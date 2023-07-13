@@ -1,1 +1,1 @@
-learning detailed flexbox
+learning details of flexbox
